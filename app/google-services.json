@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464241384998",
+    "project_id": "chatapp-d7c8f",
+    "storage_bucket": "chatapp-d7c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464241384998:android:77b7fb71e235c557ab10e7",
+        "android_client_info": {
+          "package_name": "com.example.connectnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHDaoL_C9slwv9EWsbZH6uJ0IPXXbfUao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
